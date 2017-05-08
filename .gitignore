@@ -1,2 +1,3 @@
 #ignore .a .o file
 *.[oa]
+log/*.log
